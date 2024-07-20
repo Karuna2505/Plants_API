@@ -1,0 +1,345 @@
+[
+    {
+        "name": "Aloe Vera",
+        "image_url": "../assets/aloevera.jpg",
+        "description": "A succulent plant species known for its medicinal properties.",
+        "price": 100,
+        "category": "outdoor"
+    },
+    {
+        "name": "Spider Plant",
+        "image_url": "../assets/spider_plant.jpg",
+        "description": "A resilient plant with arching leaves and small plantlets.",
+        "price": 120,
+        "category": "indoor"
+    },
+    {
+        "name": "Snake Plant",
+        "image_url": "../assets/snake_plant.jpg",
+        "description": "A hardy plant with upright, sword-like leaves.",
+        "price": 150,
+        "category": "indoor"
+    },
+    {
+        "name": "Pothos",
+        "image_url": "../assets/pothos.jpg",
+        "description": "A low-maintenance vine with heart-shaped leaves.",
+        "price": 80,
+        "category": "indoor"
+    },
+    {
+        "name": "ZZ Plant",
+        "image_url": "../assets/zz_plant.jpg",
+        "description": "A tough plant with glossy, dark green leaves.",
+        "price": 180,
+        "category": "indoor"
+    },
+    {
+        "name": "Peace Lily",
+        "image_url": "../assets/peace_lily.jpg",
+        "description": "A plant with white blooms and glossy leaves.",
+        "price": 200,
+        "category": "indoor"
+    },
+    {
+        "name": "English Ivy",
+        "image_url": "../assets/english_ivy.jpg",
+        "description": "A versatile vine with small, lobed leaves.",
+        "price": 140,
+        "category": "outdoor"
+    },
+    {
+        "name": "Chinese Evergreen",
+        "image_url": "../assets/chinese_evergreen.jpg",
+        "description": "A plant with attractive, variegated leaves.",
+        "price": 160,
+        "category": "indoor"
+    },
+    {
+        "name": "Philodendron",
+        "image_url": "../assets/philodendron.jpg",
+        "description": "A tropical plant with large, glossy leaves.",
+        "price": 220,
+        "category": "indoor"
+    },
+    {
+        "name": "Fern",
+        "image_url": "../assets/fern.jpg",
+        "description": "A plant with feathery, green foliage.",
+        "price": 120,
+        "category": "indoor"
+    },
+    {
+        "name": "Cactus",
+        "image_url": "../assets/cactus.jpg",
+        "description": "A spiny succulent plant that thrives in dry conditions.",
+        "price": 90,
+        "category": "outdoor"
+    },
+    {
+        "name": "Rubber Plant",
+        "image_url": "../assets/rubber_plant.jpg",
+        "description": "A large plant with shiny, dark green leaves.",
+        "price": 250,
+        "category": "indoor"
+    },
+    {
+        "name": "Dracaena",
+        "image_url": "../assets/dracaena.jpg",
+        "description": "A plant with long, arching leaves and a woody stem.",
+        "price": 170,
+        "category": "indoor"
+    },
+    {
+        "name": "Bamboo Palm",
+        "image_url": "../assets/bamboo_palm.jpg",
+        "description": "A palm with thin, bamboo-like stems and feathery leaves.",
+        "price": 300,
+        "category": "indoor"
+    },
+    {
+        "name": "Begonia",
+        "image_url": "../assets/begonia.jpg",
+        "description": "A plant with vibrant, patterned leaves and colorful flowers.",
+        "price": 130,
+        "category": "indoor"
+    },
+    {
+        "name": "Pilea",
+        "image_url": "../assets/pilea.jpg",
+        "description": "A plant with unique, round leaves and a compact growth habit.",
+        "price": 110,
+        "category": "indoor"
+    },
+    {
+        "name": "Kalanchoe",
+        "image_url": "../assets/kalanchoe.jpg",
+        "description": "A succulent plant with colorful, tubular flowers.",
+        "price": 140,
+        "category": "indoor"
+    },
+    {
+        "name": "Echeveria",
+        "image_url": "../assets/echeveria.jpg",
+        "description": "A rosette-shaped succulent with thick, fleshy leaves.",
+        "price": 150,
+        "category": "indoor"
+    },
+    {
+        "name": "Aloe",
+        "image_url": "../assets/aloe.jpg",
+        "description": "A plant with spiky leaves and medicinal gel.",
+        "price": 100,
+        "category": "outdoor"
+    },
+    {
+        "name": "Jade Plant",
+        "image_url": "../assets/jade_plant.jpg",
+        "description": "A succulent with round, fleshy leaves and a tree-like appearance.",
+        "price": 120,
+        "category": "indoor"
+    },
+    {
+        "name": "African Violet",
+        "image_url": "../assets/african_violet.jpg",
+        "description": "A plant with fuzzy leaves and vibrant purple flowers.",
+        "price": 180,
+        "category": "indoor"
+    },
+    {
+        "name": "Hoya",
+        "image_url": "../assets/hoya.jpg",
+        "description": "A plant with waxy leaves and star-shaped flowers.",
+        "price": 200,
+        "category": "indoor"
+    },
+    {
+        "name": "Orchid",
+        "image_url": "../assets/orchid.jpg",
+        "description": "A tropical plant with exotic, showy flowers.",
+        "price": 250,
+        "category": "indoor"
+    },
+    {
+        "name": "Fiddle Leaf Fig",
+        "image_url": "../assets/fiddle_leaf_fig.jpg",
+        "description": "A large plant with glossy, violin-shaped leaves.",
+        "price": 300,
+        "category": "indoor"
+    },
+    {
+        "name": "Ponytail Palm",
+        "image_url": "../assets/ponytail_palm.jpg",
+        "description": "A plant with a bulbous trunk and long, thin leaves.",
+        "price": 220,
+        "category": "indoor"
+    },
+    {
+        "name": "Geranium",
+        "image_url": "../assets/geranium.jpg",
+        "description": "A plant with round leaves and clusters of colorful flowers.",
+        "price": 140,
+        "category": "outdoor"
+    },
+    {
+        "name": "Hibiscus",
+        "image_url": "../assets/hibiscus.jpg",
+        "description": "A plant with large, trumpet-shaped flowers.",
+        "price": 160,
+        "category": "outdoor"
+    },
+    {
+        "name": "Lemon Balm",
+        "image_url": "../assets/lemon_balm.jpg",
+        "description": "A fragrant herb with lemon-scented leaves.",
+        "price": 100,
+        "category": "herb"
+    },
+    {
+        "name": "Mint",
+        "image_url": "../assets/mint.jpg",
+        "description": "A hardy herb with aromatic, serrated leaves.",
+        "price": 80,
+        "category": "herb"
+    },
+    {
+        "name": "Rosemary",
+        "image_url": "../assets/rosemary.jpg",
+        "description": "A fragrant herb with needle-like leaves.",
+        "price": 120,
+        "category": "herb"
+    },
+    {
+        "name": "Thyme",
+        "image_url": "../assets/thyme.jpg",
+        "description": "A low-growing herb with tiny, aromatic leaves.",
+        "price": 90,
+        "category": "herb"
+    },
+    {
+        "name": "Lavender",
+        "image_url": "../assets/lavender.jpg",
+        "description": "A fragrant herb with purple spikes of flowers.",
+        "price": 150,
+        "category": "herb"
+    },
+    {
+        "name": "Chamomile",
+        "image_url": "../assets/chamomile.jpg",
+        "description": "A herb with daisy-like flowers and a calming scent.",
+        "price": 130,
+        "category": "herb"
+    },
+    {
+        "name": "Basil",
+        "image_url": "../assets/basil.jpg",
+        "description": "An herb with large, green leaves used in cooking.",
+        "price": 100,
+        "category": "herb"
+    },
+    {
+        "name": "Cilantro",
+        "image_url": "../assets/cilantro.jpg",
+        "description": "A herb with delicate, lacy leaves used in cooking.",
+        "price": 110,
+        "category": "herb"
+    },
+    {
+        "name": "Oregano",
+        "image_url": "../assets/oregano.jpg",
+        "description": "A herb with aromatic, oval leaves.",
+        "price": 90,
+        "category": "herb"
+    },
+    {
+        "name": "Dill",
+        "image_url": "../assets/dill.jpg",
+        "description": "An herb with feathery leaves and a tangy flavor.",
+        "price": 100,
+        "category": "herb"
+    },
+    {
+        "name": "Parsley",
+        "image_url": "../assets/parsley.jpg",
+        "description": "A herb with bright green, curly leaves.",
+        "price": 80,
+        "category": "herb"
+    },
+    {
+        "name": "Chives",
+        "image_url": "../assets/chives.jpg",
+        "description": "A herb with slender, tube-like leaves.",
+        "price": 90,
+        "category": "herb"
+    },
+    {
+        "name": "Sage",
+        "image_url": "../assets/sage.jpg",
+        "description": "An herb with soft, gray-green leaves and a strong flavor.",
+        "price": 110,
+        "category": "herb"
+    },
+    {
+        "name": "Bay Leaf",
+        "image_url": "../assets/bay_leaf.jpg",
+        "description": "An herb with aromatic leaves used in cooking.",
+        "price": 120,
+        "category": "herb"
+    },
+    {
+        "name": "Fennel",
+        "image_url": "../assets/fennel.jpg",
+        "description": "A herb with feathery leaves and a licorice-like flavor.",
+        "price": 130,
+        "category": "herb"
+    },
+    {
+        "name": "Lovage",
+        "image_url": "../assets/lovage.jpg",
+        "description": "A herb with strong-flavored, celery-like leaves.",
+        "price": 110,
+        "category": "herb"
+    },
+    {
+        "name": "Tarragon",
+        "image_url": "../assets/tarragon.jpg",
+        "description": "A herb with anise-like flavor and aromatic leaves.",
+        "price": 120,
+        "category": "herb"
+    },
+    {
+        "name": "Lemon Thyme",
+        "image_url": "../assets/lemon_thyme.jpg",
+        "description": "A variety of thyme with a lemon scent.",
+        "price": 130,
+        "category": "herb"
+    },
+    {
+        "name": "Wintergreen",
+        "image_url": "../assets/wintergreen.jpg",
+        "description": "A plant with evergreen leaves and a minty aroma.",
+        "price": 140,
+        "category": "herb"
+    },
+    {
+        "name": "Chervil",
+        "image_url": "../assets/chervil.jpg",
+        "description": "A delicate herb with a mild anise flavor.",
+        "price": 100,
+        "category": "herb"
+    },
+    {
+        "name": "Marjoram",
+        "image_url": "../assets/marjoram.jpg",
+        "description": "An herb with sweet, aromatic leaves used in cooking.",
+        "price": 110,
+        "category": "herb"
+    },
+    {
+        "name": "Catnip",
+        "image_url": "../assets/catnip.jpg",
+        "description": "A herb known for its effect on cats, with aromatic leaves.",
+        "price": 90,
+        "category": "herb"
+    }
+]
